@@ -1,2 +1,2 @@
 # alex-smith
-iPortfolio - Bootstrap Portfolio Websites Template
+Rutva's Portfolio - Bootstrap Portfolio Websites Template

@@ -1284,6 +1284,9 @@ section,
   margin-right: 8px;
   color: var(--accent-color);
 }
+.resume .resume-item h4 {
+  font-family: sans-serif !important;
+}
 
 /*--------------------------------------------------------------
 # Starter Section Section

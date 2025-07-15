@@ -75,7 +75,7 @@
 
   window.addEventListener('load', toggleScrollTop);
   document.addEventListener('scroll', toggleScrollTop);
-  document.getElementById("year").textContent = new Date().getFullYear();
+  // document.getElementById("year").textContent = new Date().getFullYear();
   /**
    * Animation on scroll function and init
    */
